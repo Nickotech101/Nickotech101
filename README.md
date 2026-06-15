@@ -51,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nickotech101&show_icons=true&theme=rose&hide_border=true" alt="GitHub Stats" height="160" />
   <img
   src="https://streak-stats.demolab.com?user=Nickotech101&theme=rose&hide_border=true"
-  alt="GitHub Streak"
+  alt="GitHub Streak" height="160"
 />
 </p>
 ---
